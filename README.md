@@ -1,27 +1,59 @@
 # THU-CST-Discrete Mathematics (1)
 
-离散数学（1）Labs和hw
+Discrete Mathematics (1) - Labs and Homework assignments
 
-### Project
+## Overview
 
-2024fall离散数学（1）的课程project要求利用王浩算法实现一个命题逻辑自动推理证明系统，实现在仓库
+This repository contains course materials for Discrete Mathematics (1) at Tsinghua University, including laboratory exercises and homework assignments for Fall 2024.
+
+## Project
+
+The Fall 2024 Discrete Mathematics (1) course project requires implementing a propositional logic automated reasoning proof system using Wang's Algorithm. The implementation is available in the following repository:
 
 [Wanghao-algorithm-Lab](https://github.com/wannabeyourfriend/Wanghao-algorithm-Lab)
 
+## Course Structure
+
 ### Labs
 
-离散（1）头歌实验教学平台**Lab-1**，数理逻辑与集合论。
+Lab-1 on the Touge experimental teaching platform, covering Mathematical Logic and Set Theory.
 
-### 清华大学学生纪律处分管理规定实施细则
+### Homework
 
-#### 第六章　学术不端、违反学习纪律的行为与处分
+Homework assignments and solutions are organized in the `homework/` directory.
 
-第二十一条 有下列违反课程学习纪律情形之一的，给予警告以上、留校察看以下处分：
+## Academic Integrity
 
-（一）课程作业抄袭严重的；
+### Tsinghua University Student Disciplinary Regulations
 
-（二）实验报告抄袭严重或者篡改实验数据的；
+#### Chapter 6: Academic Misconduct and Violations of Academic Discipline
 
-（三）期中、期末课程论文抄袭严重的；
+Article 21: Students who commit any of the following violations of course learning discipline shall receive a punishment ranging from warning to probation:
 
-（四）在课程学习过程中严重弄虚作假的其他情形。
+1. Serious plagiarism in course assignments
+2. Serious plagiarism in laboratory reports or falsification of experimental data
+3. Serious plagiarism in mid-term or final course papers
+4. Other serious acts of falsification during the course learning process
+
+## Course Information
+
+- **Course**: Discrete Mathematics (1)
+- **Semester**: Fall 2024
+- **Department**: Department of Computer Science and Technology, Tsinghua University
+
+## Repository Structure
+
+```
+.
+├── Labs/           # Laboratory exercises
+├── homework/       # Homework assignments
+└── README.md       # This file
+```
+
+## Contact
+
+For questions about course materials or assignments, please contact the course instructors or teaching assistants.
+
+## License
+
+This repository is for educational purposes. Please refer to individual files for specific licensing information.
